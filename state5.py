@@ -7,7 +7,7 @@ def state5_change(state5):
     return state5     
 
 
-print("\033c\033[40;37m\nquantum emulator of a state5\n")
+print("\033c\033[40;37m\nemulator of a state5\n")
 Qbit=0
 for a in range (20):
      print(Qbit)
