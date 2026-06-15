@@ -1,1 +1,1 @@
-https://youtu.be/6x2j2fh-fVY?si=h0OtaBpFB1FEZsrx
+https://azure.microsoft.com/en-us/products/digital-twins
