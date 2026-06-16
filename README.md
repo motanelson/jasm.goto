@@ -1,1 +1,1 @@
-https://azure.microsoft.com/en-us/products/digital-twins
+char array builder to bcc 32 bits os
