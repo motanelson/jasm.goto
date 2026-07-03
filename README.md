@@ -1,1 +1,5 @@
-char array builder to bcc 32 bits os
+openjdk-asmtools-jasm Hello.jasm -w .
+
+sudo dnf install openjdk-asmtools.noarch
+
+/usr/bin/openjdk-asmtools-jdis -w . Hello.class
